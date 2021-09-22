@@ -3,23 +3,16 @@
 
 ## What you built? 
 
-TODO: Short description of what you attempted to build
+I followed Paul's Hudson tutorial to build a simple IOS travel app. The app shows the different fun facts about a particular place such as country, a touristic site, location etc, and allows navigation using a map to see more places. 
 
 Include some screenshots.
-[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
-
-## Who Did What?
-
-TODO: who worked on what part?
-
+!["one"](Simulator Screen Shot - iPhone 12 Pro - 2021-09-22 at 13.29.53, "Title")
 ## What you learned
 
-TODO: what worked / what didn't work
+What worked was replicating the project after following the tutorial. What didn't work was adding the tips section, where the files used were not compatible with my version of the software. I plan to look more into this. 
 
 ## Authors
-
-TODO: list of authors
-
+Juliet Elisa Giraso
 ## Acknowledgments
+To implement this small project, I followed the tutorial by Paul Hudson, which can be found here: https://www.youtube.com/watch?v=aP-SQXTtWhY&t=9054s, and the associated repo: https://github.com/twostraws/Trekr
 
-TODO: cite any tutorials followed here
