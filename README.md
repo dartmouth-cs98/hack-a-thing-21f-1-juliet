@@ -3,7 +3,7 @@
 
 ## What you built? 
 
-I followed Paul's Hudson tutorial to build a simple IOS travel app. The app shows the different fun facts about a particular place such as country, a touristic site, location etc, and allows navigation using a map to see more places. I did a few things here and there to play with the tutorial some more such as randomizing the front place to display, changing direction names, switching var and let etc. 
+I followed Paul's Hudson tutorial to build a simple IOS travel app. The app shows the different fun facts about a particular place such as country, a touristic site, location etc, and allows navigation using a map to see more places. The project reads from assets/json files with the info about places and displays them accordingly with some navigation. I did a few things here and there to play with the tutorial some more such as randomizing the front place to display, changing direction names, switching var and let etc. 
 
 Include some screenshots.
 
