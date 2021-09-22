@@ -3,7 +3,7 @@
 //  swiftie
 //
 //  Created by Juliet Elisa Giraso on 9/21/21.
-//
+//  //  Heavily influenced by Paul Hudson's tutorial: https://www.youtube.com/watch?v=aP-SQXTtWhY&t=9054s
 
 import MapKit
 import SwiftUI
